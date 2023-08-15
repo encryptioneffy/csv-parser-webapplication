@@ -1,4 +1,6 @@
 # REPL
+- Type: React Web Application with Spark API
+- Status: Completed 
 ## Project Details
 
 Project Name: REPL
