@@ -1,0 +1,76 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.repl {
+  position: relative;
+}
+
+.repl-history {
+  height: 70vh;
+  margin: auto;
+  display: block;
+  overflow: scroll;
+}
+
+.repl-input {
+  margin: auto;
+  height: 10vh;
+}
+
+.repl-command-box {
+  width: 90%;
+  margin: auto;
+  display: block;
+}
+
+.unrecognized-command{
+  background-color: red;
+  padding:0.5%;
+  color:black
+}
+
+.command_mode{
+  background-color: deepskyblue;
+  padding:0.5%;
+  color:black
+}
+
+.command_load_file{
+  background-color: darkorange;
+  padding:0.5%;
+  color:black
+}
+
+.command_view{
+  background-color: mediumorchid;
+  padding:0.5%;
+  color:black
+}
+
+.command_search{
+  background-color: springgreen;
+  padding:0.5%;
+  color:black
+}
+
+.tableCSV{
+  table-layout:fixed;
+  width: 100%;    
+}
+
+.tableCSVRow{
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+  height: 90%;
+}
+
+.tableCSVElement{
+  border: 1px solid black;
+  text-align: center;
+  padding: 10px;
+  color:black
+}
