@@ -1,4 +1,4 @@
-# REPL
+# CSV Parser REPL
 - Type: React Web Application with Spark API
 - Status: Completed 
 ## Project Details
