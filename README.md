@@ -1,9 +1,9 @@
-# CSV Parser REPL
+# CSV Parser Web Application
 - Type: React Web Application with Spark API
 - Status: Completed 
 ## Project Details
 
-Project Name: REPL
+Project Name: "REPL"
 
 Team members & Contributions:
 
