@@ -1,6 +1,5 @@
 # CSV Parser: A Full-Stack Web Application
 - A Full-Stack Web Application with React on the frontend and Spark Java API on the backend
-## Project Details
 
 ## Design Choices  
 Components:
