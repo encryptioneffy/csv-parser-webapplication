@@ -1,6 +1,5 @@
 # CSV Parser Web Application
-- Type: React Web Application with Spark API
-- Status: Completed 
+- A Full-Stack Web Application with React on the frontend and Spark Java API on the backend
 ## Project Details
 
 Project Name: "REPL"
