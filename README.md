@@ -2,26 +2,6 @@
 - A Full-Stack Web Application with React on the frontend and Spark Java API on the backend
 ## Project Details
 
-Project Name: "REPL"
-
-Team members & Contributions:
-
-Bryanna (`bpajotte`):
-- Reactified Echo Code
-- Styling
-- Handling commands
-- Packaging/Organization
-
-Effy  (`ttran59`)
-- Mock testing
-- Accessibility features
-- Adding and removing commands
-- Handling commands
-
-We spent roughly 12 hours on this assignment
-
-Repo: https://github.com/cs0320-s2023/sprint-4-bpajotte-ttran59
-
 ## Design Choices  
 Components:
 
